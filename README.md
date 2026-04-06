@@ -1,4 +1,4 @@
-# coachtech_flema
+# flema
 
 ## アイテムの出品と購入ができるフリマアプリ
 
@@ -6,7 +6,7 @@
 
 ### Dockerビルド
 
-1. git clone git@github.com:hi-san10/coachtech_flema.git
+1. git clone git@github.com:hi-san10/flema.git
 
 2. docker-compose up -d --build
 
